@@ -1,2 +1,3 @@
 # Project-1-Super-Store-Data
 Superstore Data Insights: Power BI-Driven Analysis and Visualization
+This project involved analysing a comprehensive dataset from a superstore to uncover actionable business insights. Using Power BI, I developed interactive dashboards to visualize sales trends, customer demographics, regional performance, and product profitability. Key achievements included identifying high-performing regions, optimizing product categories, and providing data-driven recommendations to enhance business strategies. This project demonstrated proficiency in data modelling, DAX calculations, and storytelling through visualization.
